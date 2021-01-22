@@ -10,7 +10,7 @@ You can run all the notebooks for this course using Colab (link above). If you p
 | ------------- |-------------| -----:|
 | 1      | No-class (preparation) | <a href='0_HelloWorld.ipynb'>notebook</a> |
 | 2      | Introduction | <a href='https://docs.google.com/presentation/d/1L94iFr8Kx1893mkrCW21V63Jq_k4pT0oCHV5IqpPHDo/edit?usp=sharing'>slides</a> + <a href='1_Python_crash_course.ipynb'>notebook</a> |
-| 3      | Tidy data |  |
+| 3      | Tidy data | <a href='https://docs.google.com/presentation/d/1IJyoE8n7Y2vTXzVXI3YU7pPG7W0cJ0c72uQdKPjlTIo/edit?usp=sharing'>slides</a> + notebooks <a href='2.1_Pandas.ipynb'>1</a>, <a href='2.2_Tidy_data.ipynb'>2</a>, <a href='2.3_Wrangling.ipynb'>3</a> |
 | 4      | Exploring data |  |
 | 5      | Enough data? |  |
 | 6      | Questioning data  |  |
