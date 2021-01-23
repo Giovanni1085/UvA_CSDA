@@ -18,7 +18,11 @@ You can run all the notebooks for this course using Colab (link above). If you p
 
 ## Datasets
 
-We will mostly use [these datasets](https://github.com/mromanello/ADA-DHOxSS/tree/master/data), from this [Applied Data Analysis course](https://github.com/mromanello/ADA-DHOxSS).
+We will mostly use [these datasets](https://github.com/mromanello/ADA-DHOxSS/tree/master/data), from the [Applied Data Analysis course](https://github.com/mromanello/ADA-DHOxSS).
+
+## Assignments
+
+See the [assignments folder](assignments/).
 
 ## Readings
 
