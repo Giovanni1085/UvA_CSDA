@@ -14,7 +14,8 @@ You can run all the notebooks for this course using Colab (link above). If you p
 | 4      | Tidy data II | <a href='https://docs.google.com/presentation/d/1IJyoE8n7Y2vTXzVXI3YU7pPG7W0cJ0c72uQdKPjlTIo/edit?usp=sharing'>slides</a> + notebooks <a href='2.2_Tidy_data.ipynb'>1</a>, <a href='2.3_Wrangling.ipynb'>2</a> |
 | 5      | Exploring data | <a href='https://docs.google.com/presentation/d/18qvRmujAlSepY42LUhGEtoUWi--yZcDV09Z2hqdrWEs/edit?usp=sharing'>slides</a> + notebooks <a href='3.1_More_pandas.ipynb'>1</a>, <a href='3.2_Exploratory_data_analysis.ipynb'>2</a> |
 | 6      | Enough data? | <a href='https://docs.google.com/presentation/d/1NK9fccI6DTDbGhdlMMZzv-B3I3Oo0bSIZpvrppVTcYg/edit?usp=sharing'>slides</a> + <a href='4.1_Outliers_sampling.ipynb'>notebook</a> |
-| 7      | Visualizing data  |  |
+| 7      | Visualizing data  | <a href='https://docs.google.com/presentation/d/1RGIf7SCWxANVaQeoW4MPB7KCRnfpS6dnH1W8iCReOwQ/edit?usp=sharing'>slides</a> + <a href='5.1_Visualize.ipynb'>notebook</a> |
+| Extra      | Modelling data  | <a href='6.1_Modelling.ipynb'>notebook</a> |
 
 ## Datasets
 
