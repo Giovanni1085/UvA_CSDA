@@ -26,7 +26,7 @@ Make sure that your discussion includes your critical reflections on possible li
 
 ### Dataset
 
-The [original dataset](https://github.com/matthewfdaniels/scripts/) has been made available by the authors, alongside a [FAQ](https://medium.com/@matthew_daniels/faq-for-the-film-dialogue-by-gender-project-40078209f751) on it. Nevertheless, to make things a bit easier, you will use the [clean version](Pudding-Film-Dialogue-Clean.csv) (available in this repository) curated by Menalie Walsh for her book [Introduction to Cultural Analysis & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) (which I highly recommend).
+The [original dataset](https://github.com/matthewfdaniels/scripts/) has been made available by the authors, alongside a [FAQ](https://medium.com/@matthew_daniels/faq-for-the-film-dialogue-by-gender-project-40078209f751) on it. Nevertheless, to make things a bit easier, you will use the [clean version](Pudding-Film-Dialogue-Clean.csv) (available in this repository) curated by Melanie Walsh for her book [Introduction to Cultural Analysis & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) (which I highly recommend).
 
 Check the [starting notebook](Mini_project_default.ipynb) for more info on what the dataset contains.
 
@@ -34,7 +34,7 @@ Check the [starting notebook](Mini_project_default.ipynb) for more info on what 
 
 If you would like to do your own mini-project, here are some great lists of datasets you might consider:
 
-* [Meleanie Walsh's compilation](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Datasets/Datasets.html).
+* [Melanie Walsh's compilation](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Datasets/Datasets.html).
 * [Miriam Posner's compilation](http://miriamposner.com/classes/dh201w21/final-project/datasets).
 * [Data is plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0). 
 
