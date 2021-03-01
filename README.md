@@ -27,7 +27,7 @@ See the [assignments folder](assignments/).
 
 ## Readings
 
-A good companion for this course is [John Canning, Statistics for the Humanities, 2014](http://statisticsforhumanities.net/book/).
+A good companion for this course is [John Canning, Statistics for the Humanities, 2014](http://statisticsforhumanities.net/book/). Also recommended is [Melanie Walsh, Introduction to Cultural Analytics & Python, 2021](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html).
 
 ## License
 
