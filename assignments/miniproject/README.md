@@ -3,7 +3,7 @@
 The mini-project is an individual piece of work which requires you to practice data analysis in order to contribute towards a humanities research question. A mini-project consists of two components:
 
 * A **data analysis** contained into a single Jupyter notebook fully run and exported both as ipynb and html.
-* A **short essay/report** structured as a research paper, which summarises your work. Please write no more than 5 A4 pages in a reasonable font size (excluding references, including everything else). Save your report as a pdf.
+* A **short essay/report** structured as a research paper, which summarises your work. Please write no more than 4 A4 pages in a reasonable font size (excluding references, including everything else). Save your report as a pdf.
 
 *Refer to Canvas for more guidelines.*
 
