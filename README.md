@@ -27,7 +27,7 @@ See the [assignments folder](assignments/).
 
 ## Readings
 
-A good companion for this course is [John Canning, Statistics for the Humanities, 2014](http://statisticsforhumanities.net/book/). Also recommended is [Melanie Walsh, Introduction to Cultural Analytics & Python, 2021](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html).
+A good companion for this course is [John Canning, *Statistics for the Humanities*, 2014](http://statisticsforhumanities.net/book/). Also recommended are [Melanie Walsh, *Introduction to Cultural Analytics & Python*, 2021](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) and [Karsdorp, Kestemont, Riddell, *Humanities Data Analysis: Case Studies with Python*, 2021](https://www.humanitiesdataanalysis.org/index.html).
 
 ## License
 
@@ -36,5 +36,5 @@ Everything in this repository which is not already attributed to someone else is
 ## Acknowledgements
 
 The contents of this course are in part based on the following courses:
-* [Applied Data Analysis](https://github.com/mromanello/ADA-DHOxSS) (with Matteo Romanello)
-* [Coding the Humanities](https://github.com/Giovanni1085/UvA_CDH_2020)
+* [Applied Data Analysis](https://github.com/mromanello/ADA-DHOxSS) (with Matteo Romanello).
+* [Coding the Humanities](https://github.com/Giovanni1085/UvA_CDH_2020).

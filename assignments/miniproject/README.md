@@ -1,6 +1,6 @@
 # Mini-project
 
-The mini-project is an individual piece of work which requires you to practice data analysis in order to contribute towards a humanities research question. A mini-project consists of two components:
+The mini-project is a group work which requires you to practice data analysis in order to contribute towards a humanities research question. A mini-project consists of two components:
 
 * A **data analysis** contained into a single Jupyter notebook fully run and exported both as ipynb and html.
 * A **short essay/report** structured as a research paper, which summarises your work. Please write no more than 4 A4 pages in a reasonable font size (excluding references, including everything else). Save your report as a pdf.
@@ -40,5 +40,5 @@ If you would like to do your own mini-project, here are some great lists of data
 * [Miriam Posner's compilation](http://miriamposner.com/classes/dh201w21/final-project/datasets).
 * [Data is plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0). 
 
-Please make sure to have a clear research question and understanding of the dataset before getting started. In case of doubt, ask me.
+Please make sure to have a clear research question and understanding of the dataset before getting started. In case of doubt, ask us.
 
